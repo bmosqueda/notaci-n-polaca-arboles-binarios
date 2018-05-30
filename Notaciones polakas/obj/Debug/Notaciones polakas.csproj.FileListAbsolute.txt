@@ -1,0 +1,10 @@
+C:\Users\brand\source\repos\Notaciones polakas\Notaciones polakas\obj\Debug\Notaciones polakas.csprojResolveAssemblyReference.cache
+C:\Users\brand\source\repos\Notaciones polakas\Notaciones polakas\obj\Debug\Notaciones_polakas.Form1.resources
+C:\Users\brand\source\repos\Notaciones polakas\Notaciones polakas\obj\Debug\Notaciones_polakas.Properties.Resources.resources
+C:\Users\brand\source\repos\Notaciones polakas\Notaciones polakas\obj\Debug\Notaciones polakas.csproj.GenerateResource.Cache
+C:\Users\brand\source\repos\Notaciones polakas\Notaciones polakas\obj\Debug\Notaciones polakas.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\Notaciones polakas\Notaciones polakas\bin\Debug\Notaciones polakas.exe.config
+C:\Users\brand\source\repos\Notaciones polakas\Notaciones polakas\bin\Debug\Notaciones polakas.exe
+C:\Users\brand\source\repos\Notaciones polakas\Notaciones polakas\bin\Debug\Notaciones polakas.pdb
+C:\Users\brand\source\repos\Notaciones polakas\Notaciones polakas\obj\Debug\Notaciones polakas.exe
+C:\Users\brand\source\repos\Notaciones polakas\Notaciones polakas\obj\Debug\Notaciones polakas.pdb
